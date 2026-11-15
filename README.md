@@ -1,93 +1,126 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Vaibhavi Gosavi</h1>
 
-# Hi 👋 I'm **Vaibhavi Gosavi**
+<h3 align="center">
+AI & Data Science Engineering Student | Machine Learning Enthusiast | Data Analyst
+</h3>
 
-### B.Tech in Artificial Intelligence & Data Science (AI&DS)
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=AI+%26+Machine+Learning;Data+Analytics;Building+Intelligent+Applications;Always+Learning+🚀" />
-
-<p>
-
-<a href="https://www.linkedin.com/in/vaibhavi-gosavi31">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:vaibhavigosavi911@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
-
+<p align="center">
+<a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+<a href="mailto:YOUR_EMAIL">Email</a> •
+<a href="https://github.com/vaibhavigosavi931-star">GitHub</a>
 </p>
-
-</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-🎓 B.Tech in Artificial Intelligence & Data Science (AI&DS)
+🎓 B.Tech student in **Artificial Intelligence & Data Science** at **Dr. Babasaheb Ambedkar Technological University (DBATU)**
 
-💡 Interested in **Artificial Intelligence, Machine Learning, Data Analytics, and Generative AI**.
+🏆 Consistently ranked among the **top performers in my class (CGPA: 7.9)**
 
-🌱 Currently learning **LLMs, MLOps, and Deep Learning**.
+🤖 Passionate about building **AI-powered applications**, **machine learning models**, and **data-driven solutions**
+
+🌱 Currently learning:
+- MLOps
+- Deep Learning
+- Generative AI
+- Large Language Models (LLMs)
+
+💡 Open to:
+- Internships
+- Research Collaborations
+- Open Source Contributions
 
 ---
 
-## 🛠 Tech Stack
+## 🏅 Achievements
 
-<p>
+🥇 **First Place** - AVISHKAR 2026 Institute Level Research Competition
 
-<img src="https://skillicons.dev/icons?i=python,javascript,react,nextjs,fastapi,mysql,git,github,vscode"/>
+🎖️ **Zonal Level Selection** - AVISHKAR 2026-27 (*Cyclosense-AI*)
 
+🎖️ **Zonal Level Selection** - AVISHKAR 2025-26 (*Rescue Eye AI*)
+
+🏆 **Top Position** - AVISHKAR 2025 Institute Level Research Competition
+
+🎤 Presented **Dia Care** at **ROTAREX 2026**
+
+💻 Participant - **Skill India Hackathon**
+
+---
+
+## 🚀 Featured Projects
+
+### 🩺 Dia Care
+AI-powered healthcare assistant for diabetic patients that generates personalized meal plans and exercise recommendations using glucose levels, allergies, and medical data.
+
+**Tech Stack**
+
+`React.js` `FastAPI` `REST API` `Swagger UI`
+
+---
+
+### 🎓 EduCopilot
+An AI learning and career companion for engineering students featuring intelligent chat assistance, roadmap generation, and progress tracking.
+
+**Tech Stack**
+
+`Next.js` `TypeScript` `Tailwind CSS` `OpenAI API`
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,fastapi,tailwind,pandas,numpy,mysql,git,github,vscode" />
 </p>
 
----
+### Data Analytics & Visualization
+`Pandas` • `NumPy` • `Matplotlib` • `Power BI`
 
-## 🚀 Projects
-
-| Project | Tech Stack |
-|---------|------------|
-| 🩺 **Dia Care** | React.js • FastAPI • REST API • Swagger UI |
-| 🎓 **EduCopilot** | Next.js • TypeScript • Tailwind CSS • OpenAI API |
+### AI & Machine Learning
+`Machine Learning` • `Deep Learning` • `Generative AI` • `LLMs`
 
 ---
 
 ## 💼 Experience
 
-📊 **Data Analytics Intern** — Deloitte
-
-⚙️ **PCB Assembly Operations Trainee** — Oceans Assessors Guild Pvt. Ltd.
+| Role | Organization | Duration |
+|--------|-------------|-----------|
+| Machine Learning Intern | Cognifyz IT Solutions | 2026 |
+| Data Analytics Job Simulation | Deloitte (Forage) | Apr 2026 |
+| GenAI Data Analytics Job Simulation | Tata (Forage) | Jun 2026 |
+| PCB Assembly Operations Trainee | Oceans Assessors Guild | Jul–Aug 2024 |
 
 ---
 
 ## 📜 Certifications
 
-- NPTEL – Introduction to Machine Learning
-- Deloitte Data Analytics Job Simulation
-- Hugging Face – Fundamentals of LLMs
+- Introduction to Machine Learning – NPTEL, IIT Madras
+- Data Analytics Job Simulation – Deloitte (Forage)
+- Fundamentals of LLMs – Hugging Face
+- Cloud Infrastructure Analyst – Skill India & NASSCOM
+- GenAI Powered Data Analytics – Tata (Forage)
+- Power BI for Beginners – Microsoft & Simplilearn
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaibhavigosavi931-star&show_icons=true&theme=transparent&hide_border=true"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vaibhavigosavi931-star&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavigosavi931-star&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=vaibhavigosavi931-star&theme=transparent&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavigosavi931-star&layout=compact&theme=transparent&hide_border=true"/>
 </p>
 
 ---
 
-<div align="center">
+## 🎯 Career Goal
 
-*"Passionate about building intelligent solutions through AI and Data."*
+To leverage Artificial Intelligence, Data Science, and Generative AI to build impactful solutions that solve real-world problems and improve people's lives.
 
-</div>
+---
 
+<p align="center">
+⭐ If you like my work, feel free to connect and collaborate!
+</p>
